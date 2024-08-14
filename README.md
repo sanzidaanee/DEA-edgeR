@@ -31,6 +31,9 @@ Link: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE205748
 
 
 ## Main Workflow
+![Snip20240814_28](https://github.com/user-attachments/assets/20ca21b2-ee87-4634-9cd8-8207be6c6838)
+
+
 
 ## Overview
 
